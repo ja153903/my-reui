@@ -1,0 +1,25 @@
+{
+  "name": "my-reui",
+  "displayName": "my_reui",
+  "description": "ReUI but for me",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ja153903/my-reui.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "my_reui",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my_reui-color-theme.json"
+      }
+    ]
+  }
+}
