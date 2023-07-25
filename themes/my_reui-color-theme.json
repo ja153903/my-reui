@@ -964,7 +964,8 @@
         "keyword.other.name-of-parameter",
         "constructor",
         "meta.function-call entity.name.function",
-        "meta.object.member meta.function-call entity.name.function"
+        "meta.object.member meta.function-call entity.name.function",
+        "meta.function-call.generic.python"
       ],
       "settings": {
         "foreground": "#79B6F2"
